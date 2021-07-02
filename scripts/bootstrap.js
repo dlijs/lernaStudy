@@ -26,7 +26,7 @@ const getPackages = require("./utils/getPackages");
       files: ["lib"],
       repository: {
         type: "git",
-        url: "https://github.com/hang1017/lernaTest.git",
+        url: "https://github.com/dlijs/lernaStudy",
       },
       keywords: ["umi", "alita"],
       authors: [],

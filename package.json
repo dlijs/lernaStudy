@@ -1,0 +1,16 @@
+{
+  "name": "root_hang",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "bootstrap": "node ./scripts/bootstrap.js",
+    "pulish": "lerna publish"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,12 @@
+/**/node_modules
+/packages/*/lib
+/packages/*/dist
+/coverage
+/.nyc_output
+/.changelog
+.DS_Store
+.umi
+.umi-production
+.umi-test
+**/fixtures/**/dist
+/demo

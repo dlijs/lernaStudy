@@ -1,1 +1,1 @@
-# lernaStudy
+# lernaTest
